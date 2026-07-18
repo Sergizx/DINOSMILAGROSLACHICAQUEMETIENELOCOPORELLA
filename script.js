@@ -4,10 +4,10 @@ const buttonYes = document.querySelector('#yes')
 let fontSize = 2
 
 let messages = [
-  'Estas segurx?',
+  'Estas segura bb?',
   'Piensalo bien',
   'Piensalo muy bien',
-  'Piensalo',
+  'Piensalo hermosa',
   'Mira el otro botón'
 ]
 
